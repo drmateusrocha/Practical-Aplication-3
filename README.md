@@ -50,9 +50,7 @@ The decision tree model can be found in the link
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- Notebook > https://github.com/drmateusrocha/Practical-Aplication-3/blob/main/rocha_prompt_III.ipynb
 
 
 ##### Contact and Further Information
